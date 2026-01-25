@@ -40,6 +40,11 @@ On Debian/Ubuntu:
 sudo apt install avr-gcc avr-libc avrdude
 ```
 
+On Red Hat/Fedora:
+```bash
+sudo dnf install avr-gcc avr-libc avrdude
+```
+
 ## Building the Project
 
 To build the project, navigate to the project directory and run the following commands:
